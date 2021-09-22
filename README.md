@@ -17,12 +17,11 @@
  
 <br>
  
-<img src="space-removebg.png" alt="Imagem de um Astronauta" style="height: 50vh;">
-
  ### Minhas redes sociais:
 <div> 
   <a href = "mailto:rogeriobusiness@protonmail.com"><img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rogerio-filho-9034481b1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/rogerio_alvesf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
 </div>  
+ 
+<img src="space-removebg.png" alt="Imagem de um Astronauta" style="height: 50vh;">
