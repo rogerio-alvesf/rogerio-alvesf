@@ -9,12 +9,13 @@
  ### Tecnologias que estou utilizando:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rogerio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Rogerio-Ts" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOFgnZ04TSFLaNN1dJBzBRw7sXvMxZQOjvfA&usqp=CAU">
   <img align="center" alt="Rogerio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rogerio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rogerio-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rogerio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Rogerio-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rogerio-Chart.js" height="30" width="40" src="https://www.scicoding.com/content/images/2021/09/chartjs-logo-1.svg">
+  <img align="center" alt="Rogerio-React.js" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
   <img align="center" alt="Rogerio-Azure" height="40" width="32" src="https://integration.team/wp-content/uploads/2019/07/azure-239x300.png">
 </div>
  
