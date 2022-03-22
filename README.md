@@ -5,27 +5,66 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rogerio-alvesf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-alvesf&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+ ### ⚡ Skills
+ 
+<img src="https://img.shields.io/badge/html5-5E5E5E?logo=Html5&style=for-the-badge&labelColor=000000"/>
+ 
+<img src="https://img.shields.io/badge/css3-5E5E5E?logo=Css3&style=for-the-badge&labelColor=000000"/>
 
- ### Tecnologias que estou utilizando:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rogerio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Rogerio-Ts" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOFgnZ04TSFLaNN1dJBzBRw7sXvMxZQOjvfA&usqp=CAU">
-  <img align="center" alt="Rogerio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rogerio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rogerio-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rogerio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rogerio-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rogerio-React.js" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-  <img align="center" alt="Rogerio-Azure" height="40" width="32" src="https://integration.team/wp-content/uploads/2019/07/azure-239x300.png">
-</div>
+<a href="https://www.javascript.com/" target="_blank">
+ <img src="https://img.shields.io/badge/javascript-5E5E5E?logo=JavaScript&style=for-the-badge&labelColor=000000"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank">
+  <img src="https://img.shields.io/badge/-Sql%20server-5E5E5E?logo=Microsoft%20SQL%20Server&style=for-the-badge&labelColor=000000"/>
+</a>
+
+<a href="https://www.mysql.com" target="_blank">
+ <img src="https://img.shields.io/badge/MySQL-5E5E5E?logo=MySQL&style=for-the-badge&labelColor=dddddd"/>
+</a>
+
+<a href="https://git-scm.com" target="_blank">
+ <img src="https://img.shields.io/badge/git-5E5E5E?logo=Git&style=for-the-badge&labelColor=000000"/>
+</a>
+
+<a href="https://www.markdownguide.org/getting-started/" target="_blank">
+ <img src="https://img.shields.io/badge/markdown-5E5E5E?logo=Markdown&style=for-the-badge&labelColor=000000"/>
+</a>
+
+<a href="https://material-ui.com/" target="_blank">
+ <img src="https://img.shields.io/badge/material%20UI-5E5E5E?logo=Material-UI&style=for-the-badge&labelColor=000000"/>
+</a>
+
+<a href="https://figma.com/" target="_blank">
+ <img src="https://img.shields.io/badge/Figma-5E5E5E?logo=Figma&style=for-the-badge&labelColor=000000"/>
+</a>
+
+### 📖 Studying
+
+<a href="https://reactjs.org" target="_blank">
+ <img src="https://img.shields.io/badge/react-5E5E5E?logo=react&style=for-the-badge&labelColor=000000"/>
+</a>
  
-<br>
+<a href="https://www.typescriptlang.org" target="_blank">
+ <img src="https://img.shields.io/badge/typescript-5E5E5E?logo=TypeScript&style=for-the-badge&labelColor=000000"/>
+</a>
  
- ### Minhas redes sociais:
-<div> 
-  <a href = "mailto:rogeriobusiness@protonmail.com"><img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rogerio-filho-9034481b1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/rogerio_alvesf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>  
+ <a href="https://azure.microsoft.com/en-us/" target="_blank">
+<img src="https://img.shields.io/badge/Azure-5E5E5E?logo=Microsoft%20Azure&style=for-the-badge&labelColor=000000"/></a>
  
+### 🔌 Networking
+ 
+<a href="https://www.linkedin.com/in/rogerio-filho-9034481b1" target="_blank">
+ <img src="https://img.shields.io/badge/Linkedin-5E5E5E?logo=Linkedin&style=for-the-badge&labelColor=000000"/>
+</a>
+ 
+<a href="mailto:rogeriobusiness@protonmail.com" target="_blank">
+ <img src="https://img.shields.io/badge/Protonmail-5E5E5E?logo=Protonmail&style=for-the-badge&labelColor=000000"/>
+</a>
+ 
+<a href="https://www.instagram.com/rogerio_alvesf/" target="_blank">
+ <img src="https://img.shields.io/badge/Instagram-5E5E5E?logo=Instagram&style=for-the-badge&labelColor=000000"/>
+</a>
+
 <img src="space-removebg.png" alt="Imagem de um Astronauta" style="height: 50vh;">
