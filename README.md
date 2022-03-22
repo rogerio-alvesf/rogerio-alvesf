@@ -50,8 +50,13 @@
  <img src="https://img.shields.io/badge/typescript-5E5E5E?logo=TypeScript&style=for-the-badge&labelColor=000000"/>
 </a>
  
- <a href="https://azure.microsoft.com/en-us/" target="_blank">
-<img src="https://img.shields.io/badge/Azure-5E5E5E?logo=Microsoft%20Azure&style=for-the-badge&labelColor=000000"/></a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank">
+ <img src="https://img.shields.io/badge/Azure-5E5E5E?logo=Microsoft%20Azure&style=for-the-badge&labelColor=000000"/>
+</a>
+ 
+<a href="https://www.java.com/" target="_blank">
+ <img src="https://img.shields.io/badge/java-5E5E5E?logo=Java&style=for-the-badge&labelColor=000000"/>
+</a>
  
 ### 🔌 Networking
  
