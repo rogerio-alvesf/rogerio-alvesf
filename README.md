@@ -1,12 +1,14 @@
 ### <h1>Developing a Better Future</h1>
 
  <div>
-  <a href="https://github.com/rogerio-alvesf">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rogerio-alvesf&show_icons=true&theme=dark&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-alvesf&layout=compact&angs_count=7&theme=dark"/>
+   <a href="https://github.com/rogerio-alvesf">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rogerio-alvesf&show_icons=true&theme=monokai&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-alvesf&layout=compact&angs_count=7&theme=monokai"/>
+   </a>
 </div>
  
  ### ⚡ Skills
+ <div style="display:flex; justify-content: space-evenly;">
  
 <img src="https://img.shields.io/badge/html5-5E5E5E?logo=Html5&style=for-the-badge&labelColor=000000"/>
  
@@ -39,6 +41,7 @@
 <a href="https://figma.com/" target="_blank">
  <img src="https://img.shields.io/badge/Figma-5E5E5E?logo=Figma&style=for-the-badge&labelColor=000000"/>
 </a>
+ </div>
 
 ### 📖 Studying
 
