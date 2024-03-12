@@ -1,5 +1,4 @@
-### <h1>Developing a Better Future</h1>
-
+<h1>Developing a Better Future</h1>
  <div>
    <a href="https://github.com/rogerio-alvesf">
         <img height="160em"
@@ -73,4 +72,3 @@
   </td>
  </tr>
 </table>
-<img src="space-removebg.png" alt="Imagem de um Astronauta" style="height: 50vh;">
