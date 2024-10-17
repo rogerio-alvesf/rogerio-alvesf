@@ -33,5 +33,3 @@ You can reach me at:
 
 - Email: rogeriobusiness@protonmail.com
 - LinkedIn: https://linkedin.com/in/rogerio-alves-9034481b1
-
-**Visit my portfolio website: [Link to my portfolio website](https://rogerio-filho.ddns.net)**
