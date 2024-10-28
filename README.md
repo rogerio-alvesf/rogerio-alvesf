@@ -27,7 +27,7 @@
 Here are some of the notable projects I have worked on:
 
 - [OrderQueueService](https://github.com/rogerio-alvesf/OrderQueueService)
-- [SonarQubeDotNetExample]([https://github.com/rogerio-alvesf/OrderQueueService](https://github.com/rogerio-alvesf/SonarQubeDotNetExample))
+- [SonarQubeDotNetExample]([https://github.com/rogerio-alvesf/OrderQueueService](https://github.com/rogerio-alvesf/SonarQubeDotNetExample)
 
 ### 📫 Contact
 You can reach me at:
